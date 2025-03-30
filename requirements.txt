@@ -1,0 +1,5 @@
+pandas
+selenium
+Pillow
+tkinter
+ttkbootstrap
